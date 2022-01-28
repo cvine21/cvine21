@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"
-   img src="https://media2.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/cvine21">
