@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white>
+  https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white
 </div>
 <!--
 **cvine21/cvine21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
