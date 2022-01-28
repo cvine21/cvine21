@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif?cid=ecf05e472br3gkd4m8k9yew2vhavsopg29h5c1nfcjwuh3ki&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/cvine21">
