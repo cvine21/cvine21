@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/KxbZ21Jnz4YdaLN2co" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/PLCnext-plcnext-plcnexttechnology-iamplcnext-KxbZ21Jnz4YdaLN2co">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/cvine21">
