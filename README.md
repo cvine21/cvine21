@@ -7,6 +7,8 @@
   <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
   <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
   <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/cvine21">
