@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <!--
 **cvine21/cvine21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
