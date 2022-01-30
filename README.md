@@ -12,10 +12,10 @@
   <a href="https://t.me/cvine21">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
----
+  ---
 
-### :woman_technologist: About Me :
+  ### :woman_technologist: About Me :
+</div>
 <!--
 **cvine21/cvine21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
