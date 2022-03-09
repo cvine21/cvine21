@@ -13,8 +13,6 @@
   </a>
 </div>
 
-**cvine21/cvine21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - :desktop_computer: School 21 student
 - 🔭 KSPEU undergraduate
 - 🌱 I’m currently learning C and Python...
