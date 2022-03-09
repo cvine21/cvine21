@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me :
 - :desktop_computer: School 21 student
-- 🔭 KSPEU undergraduate
+- :man_student: KSPEU undergraduate
 - 🌱 I’m currently learning C and Python
 - 📫 How to reach me: 
   <a href="https://t.me/cvine21">
