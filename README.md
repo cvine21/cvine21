@@ -3,7 +3,7 @@
   <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
   <img src="https://media4.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1> 
 </div>
