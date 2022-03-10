@@ -15,6 +15,7 @@
 - 📫 How to reach me: 
   <a href="https://t.me/cvine21">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Gmail Badge"/>
   </a>
 <!--
 - 👯 I’m looking to collaborate on ...
