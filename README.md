@@ -11,7 +11,7 @@
 ### :man_technologist: About Me :
 - :desktop_computer: School 21 student
 - :man_student: KSPEU master
-- 🌱 I’m currently code in C and Python
+- 🌱 I’m currently coding in C and Python
 - 📫 How to reach me: 
   <a href="https://t.me/cvine21">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
