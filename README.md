@@ -5,6 +5,7 @@
 <a href="https://github.com/JaeSeoKim/badge42">
   <img src="https://badge42.vercel.app/api/v2/cl1uj3wbd003009jtrxrmnm4h/stats?cursusId=21&coalitionId=102" alt="cvine's 42 stats" />
 </a>
+
 - 🌱 I’m currently coding in C and Python
 - :man_student: KSPEU master
 - 📫 How to reach me: 
