@@ -8,6 +8,8 @@
   </h1> 
 </div>
 
+[![cvine's 42 stats](https://badge42.vercel.app/api/v2/cl1uj3wbd003009jtrxrmnm4h/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
+
 ### :man_technologist: About Me :
 - :desktop_computer: School 21 student
 - :man_student: KSPEU master
