@@ -9,7 +9,7 @@
 - 🌱 I’m currently coding in C, learning Python
 
 <!-- | [![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=cvine21&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) | -->
-[![Raphael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvine21&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Raphael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvine21&layout=compact&bg_color=aa3347,d93c43,f1a56d&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: 
   <a href="https://t.me/cvine21">
