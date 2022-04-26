@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5:ff0061,100:f8b681&height=200&text=Hi%20there,%20I%27m%20Raphael!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5:0054ff,100:00ffa5&height=200&text=Hi%20there,%20I%27m%20Raphael!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 <!-- ### :man_technologist: About Me : -->
 - :desktop_computer: I am a student in School 21
