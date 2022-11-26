@@ -6,6 +6,9 @@
 - 📫 How to reach me: <a href="https://t.me/cvine21">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="mailto:rafarakh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" alt="Gmail Badge"/>
+  </a>
 ---
  ### 🛠 &nbsp;Languages and Tools :
 <div>
