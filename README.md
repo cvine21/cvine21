@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me :
 - 🌱 Frontend Developer
-- :desktop_computer: Student in School 21 (École 42)
+- :desktop_computer: School 21 (École 42) student
 - 📫 How to reach me: <a href="https://t.me/cvine21">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
