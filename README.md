@@ -12,21 +12,108 @@
 ---
  ### 🛠 &nbsp;Languages and Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
-       title="React" alt="React" height="50" width="50">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"
-       title="JavaScript" alt="JS" height="50" width="50">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"
-       title="HTML" alt="HTML-image" height="50" width="50">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"
-       title="CSS" alt="CSS" height="50" width="50">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
-          
+	<a
+		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+		target="_blank"
+		rel="noreferrer"
+	>
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			alt="javascript"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+			alt="html5"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+			alt="css3"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+			alt="react"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+			alt="redux"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg"
+			alt="webpack"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+			alt="babel"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
+			alt="bootstrap"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+			alt="c"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+			alt="cplusplus"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+			alt="git"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+			alt="postgresql"
+			width="50"
+			height="50"
+		/>
+	</a>
 </div>
+
  <!-- | [![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=cvine21&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) | -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvine21&layout=compact)](https://github.com/cvine21/github-readme-stats) -->
 <!--
