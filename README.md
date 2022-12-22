@@ -56,18 +56,26 @@
 			height="50"
 		/>
 	</a>
-	<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg"
-			alt="webpack"
-			width="50"
-			height="50"
+	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+		<img 
+		     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+		     alt="sass"
+		     width="40"
+		     height="40"
 		/>
 	</a>
 	<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
 			alt="babel"
+			width="50"
+			height="50"
+		/>
+	</a>
+	<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg"
+			alt="webpack"
 			width="50"
 			height="50"
 		/>
