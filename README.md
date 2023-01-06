@@ -60,24 +60,24 @@
           <img
             src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
             alt="gatsby"
-            width="40"
-            height="40"
+            width="50"
+            height="50"
           />
         </a>
         <a href="https://graphql.org" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
             alt="graphql"
-            width="40"
-            height="40"
+            width="50"
+            height="50"
           />
         </a>
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img 
 		     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
 		     alt="sass"
-		     width="40"
-		     height="40"
+		     width="50"
+		     height="50"
 		/>
 	</a>
 	<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
