@@ -24,6 +24,18 @@
 			height="50"
 		/>
 	</a>
+	<a
+		href="https://developer.mozilla.org/en-US/docs/Web/TypeScript"
+		target="_blank"
+		rel="noreferrer"
+	>
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+			alt="javascript"
+			width="50"
+			height="50"
+		/>
+	</a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
@@ -116,14 +128,6 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
 			alt="git"
-			width="50"
-			height="50"
-		/>
-	</a>
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-			alt="postgresql"
 			width="50"
 			height="50"
 		/>
