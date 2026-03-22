@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me :
 - 🌱 I'm a frontend developer
-- 👨‍🎓 I'm a student of <a href="https://21-school.ru/">School 21</a> <a href="https://42.fr/en/homepage/">(École 42)</a>
+- 👨‍🎓 Alumni of <a href="https://21-school.ru/">School 21</a> <a href="https://42.fr/en/homepage/">(École 42)</a>
 - 📫 How to reach me: <a href="https://t.me/cvine">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
